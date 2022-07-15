@@ -1,2 +1,3 @@
 First git file
 Second line.
+Here we go, 3rd line
